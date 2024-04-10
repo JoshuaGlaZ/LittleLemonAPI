@@ -1,7 +1,7 @@
 # Little Lemon Web Application
 (Meta Back-End Developer Capstone Project)
 
-## This is a Django web application for a restaurant named Little Lemon. The application fulfills the following criteria:
+## Django web application for a restaurant named Little Lemon
 - Serves static HTML content using the Django framework
 - Connects the backend to a MySQL database
 - Implements APIs for menu and table booking
